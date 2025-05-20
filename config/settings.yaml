@@ -1,0 +1,14 @@
+# Rutas de datos
+data:
+  raw: "data/raw/historial.jsonl"
+  processed: "data/processed/processed.csv"
+  models: "data/models"
+
+# Parámetros de entrenamiento
+model:
+  alpha: 0.1
+  tfidf:
+    ngram_range: [1, 3]
+    max_features: 300
+    analyzer: char_wb
+  proba_threshold: 0.65

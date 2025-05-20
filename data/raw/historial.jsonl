@@ -1,0 +1,76 @@
+{"timestamp": "2025-05-17T19:27:24.967285", "pregunta": "recomendar procesador para juegos", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-17T19:27:24.967285", "pregunta": "quiero una cpu para gaming", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-17T19:27:24.967285", "pregunta": "mejor sistema operativo para gaming", "intencion": "general"}
+{"timestamp": "2025-05-17T19:36:14.967738", "pregunta": "quiero una cpu para gaming", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-17T19:37:18.065868", "pregunta": "¿es compatible esta ram?", "intencion": "compatibilidad"}
+{"timestamp": "2025-05-17T19:37:30.762661", "pregunta": "tengo 800 dólares", "intencion": "presupuesto"}
+{"timestamp": "2025-05-17T19:39:00.900486", "pregunta": "¿Cuál es la mejor CPU para hacer streaming?", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-17T19:39:08.136597", "pregunta": "Recomiéndame una tarjeta gráfica para jugar a 1080p", "intencion": "recomendacion_gpu"}
+{"timestamp": "2025-05-17T19:39:16.134921", "pregunta": "¿Qué fuente necesito para una RTX 4090?", "intencion": "recomendacion_gpu"}
+{"timestamp": "2025-05-17T19:39:26.536183", "pregunta": "Tengo 800 dólares, ¿qué me puedo armar?", "intencion": "presupuesto"}
+{"timestamp": "2025-05-17T19:39:43.791218", "pregunta": "Quiero una PC para edición de video por menos de 1000 USD", "intencion": "presupuesto"}
+{"timestamp": "2025-05-17T19:39:57.089948", "pregunta": "¿Esta RAM DDR5 sirve con mi Ryzen 5 5600G?", "intencion": "compatibilidad"}
+{"timestamp": "2025-05-17T19:40:05.686768", "pregunta": "¿Qué placa madre va con un i5-13400?", "intencion": "compatibilidad"}
+{"timestamp": "2025-05-17T19:40:15.182272", "pregunta": "Necesito una PC para oficina y tareas básicas", "intencion": "recomendacion_pc"}
+{"timestamp": "2025-05-17T19:40:20.258965", "pregunta": "¿Qué componentes me recomiendas para diseño gráfico?", "intencion": "recomendacion_general"}
+{"timestamp": "2025-05-17T19:40:25.798187", "pregunta": "¿Cuánta refrigeración necesito si uso una 7900XTX?", "intencion": "recomendacion_gpu"}
+{"timestamp": "2025-05-17T20:38:54.578154", "pregunta": "¿Cuál es la mejor GPU para jugar?", "intencion": "recomendacion_gpu"}
+{"timestamp": "2025-05-17T20:39:08.787707", "pregunta": "Tengo 1000 dólares, ¿qué me recomiendas?", "intencion": "presupuesto"}
+{"timestamp": "2025-05-17T23:11:59.567854", "pregunta": "¿Qué CPU me recomiendas para gaming?", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-17T23:14:01.372738", "pregunta": "¿Qué RAM debería comprar para trabajar con diseño gráfico?", "intencion": "compatibilidad"}
+{"timestamp": "2025-05-17T23:15:42.129954", "pregunta": "SRAM", "intencion": "compatibilidad"}
+{"timestamp": "2025-05-17T23:16:12.159428", "pregunta": "Quiero una placa base compatible con AMD", "intencion": "compatibilidad"}
+{"timestamp": "2025-05-17T23:16:24.673017", "pregunta": "Tengo un presupuesto de 800 dólares", "intencion": "presupuesto"}
+{"timestamp": "2025-05-17T23:16:47.891802", "pregunta": "tengo 800", "intencion": "presupuesto"}
+{"timestamp": "2025-05-17T23:29:45.531495", "pregunta": "Tengo un presupuesto de 900 dólares", "intencion": "presupuesto"}
+{"timestamp": "2025-05-17T23:34:42.577680", "pregunta": "Tengo un presupuesto de 900 dólares", "intencion": "presupuesto"}
+{"timestamp": "2025-05-17T23:47:30.833785", "pregunta": "Tengo un presupuesto de 900 dólares", "intencion": "presupuesto"}
+{"timestamp": "2025-05-17T23:50:49.708973", "pregunta": "tengo un presupuesto de 900 dólares", "intencion": "presupuesto"}
+{"timestamp": "2025-05-17T23:58:11.898831", "pregunta": "tengo un presupuesto de 900 dólares", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T00:29:06.437301", "pregunta": "Tengo un presupuesto de 900 dólares", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T00:53:16.600426", "pregunta": "Tengo un presupuesto de 800 dólares", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T00:54:38.420198", "pregunta": "¿Qué computadora puedo armar con 600 dólares?", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T00:55:12.065541", "pregunta": "Mi presupuesto es de 1500 para gaming", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T00:55:42.136176", "pregunta": "¿Qué CPU me recomiendas para gaming?", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-18T00:56:26.486215", "pregunta": "¿Cuál es el mejor procesador para streaming?", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-18T00:56:40.397710", "pregunta": "Recomiéndame un procesador barato y bueno", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-18T00:56:54.469431", "pregunta": "¿Qué tarjeta gráfica necesito para jugar a 1080p?", "intencion": "recomendacion_gpu"}
+{"timestamp": "2025-05-18T00:57:29.016743", "pregunta": "¿Cuál es la mejor tarjeta para juegos AAA?", "intencion": "recomendacion_gpu"}
+{"timestamp": "2025-05-18T00:57:38.954628", "pregunta": "Quiero una GPU para hacer streaming", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-18T00:57:58.890090", "pregunta": "¿Esta RAM es compatible con mi placa base?", "intencion": "compatibilidad"}
+{"timestamp": "2025-05-18T00:58:12.300384", "pregunta": "¿Qué motherboard va con un i5-13400?", "intencion": "compatibilidad"}
+{"timestamp": "2025-05-18T00:58:47.427059", "pregunta": "¿Puedo usar esta fuente con una RTX 4090?", "intencion": "compatibilidad"}
+{"timestamp": "2025-05-18T00:59:21.429748", "pregunta": "¿Es compatible esta tarjeta gráfica con mi procesador?", "intencion": "compatibilidad"}
+{"timestamp": "2025-05-18T00:59:38.735116", "pregunta": "Necesito una PC para oficina y tareas básicas", "intencion": "recomendacion_pc"}
+{"timestamp": "2025-05-18T01:03:20.082334", "pregunta": "¿Qué fuente de poder debo comprar para una PC gaming?", "intencion": "compatibilidad"}
+{"timestamp": "2025-05-18T04:38:51.314397", "pregunta": "Tengo un presupuesto de $800 para mi PC", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T04:39:38.792682", "pregunta": "Tengo un presupuesto de $800 para mi PC", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T04:45:10.298695", "pregunta": "Tengo un presupuesto de $800 para mi PC", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T04:50:44.654169", "pregunta": "Tengo un presupuesto de $800 para mi PC", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T04:54:01.848305", "pregunta": "Tengo un presupuesto de $800 para mi PC", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T04:56:50.810354", "pregunta": "Tengo un presupuesto de $800 para mi PC", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T04:59:26.840977", "pregunta": "Tengo un presupuesto de $800 para mi PC", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T05:04:07.896924", "pregunta": "Tengo un presupuesto de $800 para mi PC", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T05:25:23.778360", "pregunta": "tengo un presupuesto de $800 para mi pc", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T15:12:18.977373", "pregunta": "tengo 800", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T15:15:39.299431", "pregunta": "tengo 800", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T15:21:41.628954", "pregunta": "tengo 800", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T15:48:31.525384", "pregunta": "tengo 800", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T15:55:07.600404", "pregunta": "tengo 800", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T15:58:49.822557", "pregunta": "tengo 800", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T16:04:35.015596", "pregunta": "tengo 800", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T16:06:24.195297", "pregunta": "tengo 800", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T16:13:51.320800", "pregunta": "tengo 800", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T16:18:20.961179", "pregunta": "tengo 800", "intencion": "presupuesto"}
+{"timestamp": "2025-05-18T16:29:58.328320", "pregunta": "quiero una cpu para gaming", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-18T16:33:30.954473", "pregunta": "quiero una cpu", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-18T16:35:43.810493", "pregunta": "quiero una cpu ryzen", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-18T16:54:50.536060", "pregunta": "quiero una cpu para gaming", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-18T16:55:23.493221", "pregunta": "mejor marca de procesadores", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-18T17:10:53.305810", "pregunta": "quiero un cpu ryzen", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-18T17:12:14.676878", "pregunta": "quiero un cpu ryzen", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-18T17:12:29.861809", "pregunta": "quiero una cpu ryzen", "intencion": "recomendacion_cpu"}
+{"timestamp": "2025-05-18T17:13:29.617375", "pregunta": "recomiendame una grafica para gaming", "intencion": "recomendacion_gpu"}
+{"timestamp": "2025-05-18T17:19:31.150168", "pregunta": "hola", "intencion": "saludo"}
+{"timestamp": "2025-05-18T17:45:51.628870", "pregunta": "hola", "intencion": "saludo"}
+{"timestamp": "2025-05-18T17:59:33.522271", "pregunta": "hola", "intencion": "saludo"}

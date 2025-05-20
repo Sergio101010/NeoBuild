@@ -1,0 +1,82 @@
+✅ 1. recomendacion_cpu
+💬 "¿Qué procesador me recomiendas para gaming?"
+
+💬 "¿Cuál es el mejor CPU para edición de video?"
+
+💬 "¿Qué procesador sirve para streaming?"
+
+✅ 2. recomendacion_gpu
+💬 "¿Qué tarjeta gráfica debo comprar?"
+
+💬 "Necesito una GPU para jugar en 4K"
+
+💬 "¿Qué gráfica es buena para diseño?"
+
+✅ 3. recomendacion_general
+💬 "¿Me ayudas a armar una PC?"
+
+💬 "¿Qué componentes me recomiendas para oficina?"
+
+💬 "Quiero un PC para tareas básicas, ¿qué compro?"
+
+✅ 4. compatibilidad
+💬 "¿Esta RAM es compatible con mi placa?"
+
+💬 "¿Puedo usar este CPU con esta tarjeta madre?"
+
+💬 "¿Mi fuente sirve para esta GPU?"
+
+✅ 5. precio
+💬 "¿Cuánto cuesta la RTX 3060?"
+
+💬 "¿Cuál es el componente más barato?"
+
+💬 "Dame una opción económica para edición"
+
+✅ 6. rendimiento
+💬 "¿Qué procesador rinde más?"
+
+💬 "¿Cuál tiene mejor rendimiento, la 4070 o la 7900 XTX?"
+
+✅ 7. refrigeracion
+💬 "¿Necesito refrigeración líquida?"
+
+💬 "¿Qué cooler es mejor para un Ryzen 9?"
+
+✅ 8. armado
+💬 "¿Cómo se arma una PC?"
+
+💬 "¿Dónde va cada componente?"
+
+✅ 9. saludo
+💬 "Hola"
+
+💬 "¿Estás ahí?"
+
+✅ 10. despedida
+💬 "Gracias, hasta luego"
+
+💬 "Nos vemos, chau"
+
+✅ 11. error_o_desconocido
+💬 "asdfghjklñ?"
+
+💬 "akjh12 9!@#"
+
+✅ 12. presupuesto
+Usa esta etiqueta cuando el usuario mencione un rango de dinero o pida recomendaciones dentro de un monto específico.
+
+💬 Ejemplos:
+"Tengo 2 millones de pesos, ¿qué PC me puedo armar?"
+
+"Quiero una computadora para jugar por menos de $500 dólares"
+
+"¿Qué setup me recomiendas con poco presupuesto?"
+
+"Arma una PC gamer con 1 millón de pesos"
+
+"Presupuesto máximo 800 mil pesos, ¿qué tarjeta gráfica compro?"
+
+✅ recomendacion_pc
+Porque el usuario está pidiendo una recomendación de PC según un tipo de uso específico.
+

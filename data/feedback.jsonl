@@ -1,0 +1,42 @@
+{"timestamp": "2025-05-17T23:39:02.054626", "pregunta": "Tengo un presupuesto de $800 para mi PC", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-17T23:39:44.626607", "pregunta": "Tengo un presupuesto de $800 para mi PC", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-17T23:45:16.349975", "pregunta": "Tengo un presupuesto de $800 para mi PC", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-17T23:51:07.171468", "pregunta": "Tengo un presupuesto de $800 para mi PC", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-17T23:53:25.708304", "pregunta": "s", "intencion": "presupuesto", "feedback": "salir"}
+{"timestamp": "2025-05-17T23:54:06.213539", "pregunta": "Tengo un presupuesto de $800 para mi PC", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-17T23:56:35.170212", "pregunta": "s", "intencion": "presupuesto", "feedback": "salir"}
+{"timestamp": "2025-05-17T23:59:39.486482", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T00:04:16.347144", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T00:25:27.208854", "pregunta": "tengo un presupuesto de $800 para mi pc", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T10:12:24.038977", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T10:15:50.149099", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T10:21:57.945110", "pregunta": "tengo 800", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T10:48:36.014562", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T10:48:42.261257", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T10:54:56.347605", "pregunta": "s", "intencion": "presupuesto", "feedback": "salir"}
+{"timestamp": "2025-05-18T10:55:16.826055", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T10:55:31.156415", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T10:55:32.355468", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T10:55:33.243120", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T10:55:33.986973", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T10:55:34.617499", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T10:55:35.246833", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T10:58:54.020797", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T11:04:48.063853", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T11:06:27.785036", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T11:06:34.314463", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T11:13:39.625248", "pregunta": "s", "intencion": "presupuesto", "feedback": "salir"}
+{"timestamp": "2025-05-18T11:13:55.479915", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T11:18:23.827116", "pregunta": "s", "intencion": "presupuesto", "feedback": "s"}
+{"timestamp": "2025-05-18T11:32:47.082297", "pregunta": "quiero una cpu para gaming", "intencion": "recomendacion_cpu", "feedback": "quiero una cpu"}
+{"timestamp": "2025-05-18T11:34:17.470811", "pregunta": "quiero una cpu", "intencion": "recomendacion_cpu", "feedback": "s"}
+{"timestamp": "2025-05-18T11:35:57.833757", "pregunta": "quiero una cpu ryzen", "intencion": "recomendacion_cpu", "feedback": "s"}
+{"timestamp": "2025-05-18T11:54:58.880250", "pregunta": "quiero una cpu para gaming", "intencion": "recomendacion_cpu", "feedback": "s"}
+{"timestamp": "2025-05-18T11:55:55.315054", "pregunta": "mejor marca de procesadores", "intencion": "recomendacion_cpu", "feedback": "s"}
+{"timestamp": "2025-05-18T12:11:30.844806", "pregunta": "quiero un cpu ryzen", "intencion": "recomendacion_cpu", "feedback": "s"}
+{"timestamp": "2025-05-18T12:12:16.757120", "pregunta": "quiero un cpu ryzen", "intencion": "recomendacion_cpu", "feedback": "s"}
+{"timestamp": "2025-05-18T12:13:11.008718", "pregunta": "quiero una cpu ryzen", "intencion": "recomendacion_cpu", "feedback": "s"}
+{"timestamp": "2025-05-18T12:14:08.501585", "pregunta": "recomiendame una grafica para gaming", "intencion": "recomendacion_cpu", "feedback": "s"}
+{"timestamp": "2025-05-18T12:20:29.703970", "pregunta": "hola", "intencion": "presupuesto", "feedback": "salir"}
+{"timestamp": "2025-05-18T12:45:56.077362", "pregunta": "hola", "intencion": "presupuesto", "feedback": "n"}
+{"timestamp": "2025-05-18T13:00:13.841191", "pregunta": "hola", "intencion": "saludo", "feedback": "s"}
